@@ -12,3 +12,4 @@ Deployment-ready React/Vite portfolio.
 Import this folder/repository. Vercel should detect Vite automatically.
 
 The resume is stored in `public/Lokesh_Thiru_Grail.pdf` and downloads directly from the portfolio.
+Portfolio deployment updated.
